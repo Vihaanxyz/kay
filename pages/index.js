@@ -11,7 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="You Can Now Use Alpha 😎. Your Key Is Below ⬇️" />
+        <Header title="You Can Now Use Alpha 😎. 
+    Your Key Is Below ⬇️" />
         <p className="description">
          key: 12632166441872185722
         </p>
