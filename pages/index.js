@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="You Can Now Use Alpha 😎" />
         <p className="description">
-          12632166441872185722</code>
+          12632166441872185722
         </p>
       </main>
 
